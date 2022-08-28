@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "kr-KO"
-title                    : "Letrue www"
+title                    : "Lectrue www"
 title_separator          : "-"
-subtitle                 : # html5, css3, javascript, vue, ui design
+subtitle                 : #html5, css3, javascript, vue, ui design
 name                     : ""
 description              : "An amazing website."
 url                      : "https://lecturewww.github.io"
